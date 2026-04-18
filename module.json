@@ -1,0 +1,18 @@
+{
+  "id": "dnd-table-webhooks",
+  "title": "DnD Table WebSockets",
+  "description": "Combat event bridge between Foundry and a local smart table app via WebSocket.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "manoloel"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ]
+}
